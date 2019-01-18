@@ -1,0 +1,18 @@
+{
+  "name": "callback",
+  "version": "1.0.0",
+  "description": "foo callback",
+  "main": "uppercase.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "armenio2"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Armênio",
+  "license": "MIT"
+}
